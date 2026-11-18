@@ -14,6 +14,8 @@ I'm a developer based in Sri Lanka passionate about bridging hardware and softwa
 **AI & Data Science:** Python, Pandas, Google Colab
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BloomedRiver&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BloomedRiver&layout=compact&theme=radical)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=BloomedRiver&theme=radical)
 

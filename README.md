@@ -13,9 +13,7 @@ I'm a developer based in Sri Lanka passionate about bridging hardware and softwa
 **Hardware & Embedded:** ESP32, Circuit Design 
 **AI & Data Science:** Python, Pandas, Google Colab
 
-### 📈 GitHub Stats
-![BloomedRiver's GitHub stats](https://github-readme-stats.vercel.app/api?username=BloomedRiver&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BloomedRiver&layout=compact&theme=radium)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BloomedRiver&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BloomedRiver&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=BloomedRiver&theme=radical)
 
-### 📫 Let's Connect
-- **Kaggle:** [Pipuni's Kaggle Profile](https://www.kaggle.com/)
